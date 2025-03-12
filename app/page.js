@@ -6,9 +6,9 @@ export default function Home() {
         <div className="w-[150px] h-[52px] left-0 top-0 absolute bg-[#eaecd7] rounded-[49px]" />
         <div className="left-[55px] top-[15px] absolute justify-start text-[#db4439] text-base font-black font-['Inknut_Antiqua']">Click</div>
       </div>
-      <div className="origin-top-left rotate-[-8.64deg] w-[543px] h-[590.40px] left-[1068.69px] top-[226px] absolute">
+      <div className="origin-top-left rotate-[8.64deg] w-[543px] h-[590.40px] left-[868.69px] top-[226px] absolute">
         <div className="w-[543px] h-[590.40px] left-[88.69px] top-0 absolute bg-[#d9d9d9]" />
-        <img className="w-[1000.99px] h-[591.71px] left-[88.51px] top-[-0.62px] absolute" src="http://3.bp.blogspot.com/-U2uqPh7hw0U/UHNEoLahrPI/AAAAAAAAAv8/buuzujhKZkY/s1600/coffee.jpg" />
+        <img className="w-[543px] h-[590.40px] left-[88.69px] top-0 absolute" src="http://3.bp.blogspot.com/-U2uqPh7hw0U/UHNEoLahrPI/AAAAAAAAAv8/buuzujhKZkY/s1600/coffee.jpg" />
       </div>
       <div className="w-[680px] left-[143px] top-[313px] absolute justify-start text-[#eaecd7] text-[110px] font-black font-['Inknut_Antiqua'] leading-[134.20px]">BlahBlah Coffe!</div>
       <div className="w-[680px] left-[148px] top-[740px] absolute justify-start text-[#eaecd7] text-[40px] font-semibold font-['Inknut_Antiqua'] leading-[48.80px]">Your No1 Choice </div>
